@@ -1,0 +1,56 @@
+h1 {
+    font-family: 'Michroma', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+
+.Color-Blue {
+    color: rgb(0, 175, 241);
+
+}
+
+h2 {
+    font-family: 'Michroma', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 13px;
+
+}
+
+section {
+    display: flex;
+}
+
+.half {
+    width: 70%;
+    padding: 5%;
+
+}
+
+.half img {
+    width: 100%;
+}
+
+.Button {
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: rgb(0, 175, 241);
+    color: black;
+    font-family: 'Michroma', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+
+}
+
+.TopPage {
+    background-color: rgb(13, 13, 13);
+
+}
+
+body {
+    margin: 0px;
+}

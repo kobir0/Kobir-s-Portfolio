@@ -49,7 +49,7 @@ p {
 
 .TopPage {
     background-color: rgb(13, 13, 13);
-    background-image: url(/dark\ text.png);
+    background-image: url(darktext.png);
     background-repeat: no-repeat;
     background-position: top right;
     border-bottom-left-radius: 4%;
@@ -69,7 +69,7 @@ body {
 }
 
 .dream-big {
-    background-image: url(/dream\ big\ side.png);
+    background-image: url(dream-big-side.png);
     background-repeat: no-repeat;
     background-position: right;
     border: 0px;
@@ -81,7 +81,7 @@ body {
 .botttom-page {
     background-color: rgb(13, 13, 13);
     border-radius: 4%;
-    background-image: url(/dream\ big\ side\ 2.png);
+    background-image: url(dream-big-side-2.png);
     background-repeat: no-repeat;
     background-position: top left;
 

@@ -17,10 +17,11 @@ p {
     font-family: 'Poppins', sans-serif;
     color: white;
     font-size: 13px;
+    text-align: justify;
 
 }
 
-section {
+.flixible-container {
     display: flex;
 }
 
@@ -48,7 +49,12 @@ section {
 
 .TopPage {
     background-color: rgb(13, 13, 13);
-
+    background-image: url(/dark\ text.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    border-bottom-left-radius: 4%;
+    border-bottom-right-radius: 4%;
+    box-shadow: 10px 15px 20px gray;
 }
 
 body {
@@ -66,5 +72,67 @@ body {
     background-image: url(/dream\ big\ side.png);
     background-repeat: no-repeat;
     background-position: right;
-    margin: 0px;
+    border: 0px;
+
+
+
+}
+
+.botttom-page {
+    background-color: rgb(13, 13, 13);
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    background-image: url(/dream\ big\ side\ 2.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+
+}
+
+.BottomBox {
+    padding: 3%;
+    background-color: white;
+    border: rgb(0, 175, 241) 5px;
+    border-radius: 10px;
+    text-align: justify;
+
+    width: 30%;
+
+
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+
+
+
+
+
+h3 {
+    font-family: 'Michroma', sans-serif;
+    font-size: 90%;
+    color: rgb(0, 175, 241);
+}
+
+.BottomBox p {
+    color: black;
+}
+
+.botttom-page h1 {
+    color: rgb(0, 175, 241);
+    text-align: center;
+
+}
+
+#name {
+    color: white;
+}
+
+#footer {
+    text-align: center;
+
+}
+
+#Button-Shadow {
+    box-shadow: 10px 10px 25px grey;
 }

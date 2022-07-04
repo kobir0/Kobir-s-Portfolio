@@ -84,6 +84,7 @@ body {
     background-image: url(dream-big-side-2.png);
     background-repeat: no-repeat;
     background-position: top left;
+    box-shadow: 10px 15px 20px gray;
 
 }
 
@@ -127,6 +128,7 @@ h3 {
 
 #footer {
     text-align: center;
+    text-align: ;
 
 }
 
@@ -138,6 +140,8 @@ h3 {
     width: 100%;
     height: 150px;
     background-color: #0c0c0c;
+    border-bottom-left-radius: 4%;
+    border-bottom-right-radius: 4%;
 
 }
 
